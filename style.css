@@ -1,0 +1,148 @@
+* {
+	font-family: 'Roboto', sans-serif;
+	color: #9BD7e2;
+}
+
+body {
+	background-color: #093960;
+}
+
+.title {
+	width: 100%;
+	border-bottom: 2px solid #61C5E5;
+	font-weight: 700;
+    padding-top: 15px;
+    cursor: pointer;
+    color: #61C5E5;
+}
+
+.title:before {
+    content: "";
+    float: right;
+    width: 0;
+    height: 0;
+    margin-top: 6px;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 9px solid #61C5E5;
+}
+
+.content {
+	margin: 0;
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: all .7s ease;
+	-moz-transition: all .7s ease;
+	-o-transition: all .7s ease;
+	-ms-transition: all .7s ease;
+	transition: all .7s ease;
+}
+
+.content.show {
+    margin-top: 1em;
+    max-height: 500px;
+}
+
+#website {
+    font-size: 20px;
+    font-family: 'Quantico', sans-serif;
+    position: fixed;
+    top: 5px;
+    right: 5px;
+    font-weight: 700;
+    text-align: center;
+	-webkit-animation: pulse 1s linear infinite;
+	-moz-animation: pulse 1s linear infinite;
+	-ms-animation: pulse 1s linear infinite;
+	animation: pulse 1s linear infinite;
+	text-decoration: none;
+}
+
+#center {
+	margin: auto;
+    width: 500px;
+}
+
+#logo-container {
+	margin: auto;
+	width: 500px;
+}
+
+#logo-container > img {
+    width: 500px;
+    position: absolute;
+    -webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+}
+
+#logo-container > img.top {
+	left: calc(100vw + 250px);
+	top: 15px;
+}
+
+#logo-container > img.bottom {
+	left: -500px;
+	top: -20px
+}
+
+#logo-container.show > img {
+	left: calc(50vw - 250px);
+}
+
+#text {
+	margin-top: calc(500px - 65px);
+}
+
+#info {
+	font-weight: 700;
+	font-size: 12px;
+	bottom: 5px;
+    left: 5px;
+    position: fixed;
+	color: #062D4D
+}
+
+@keyframes "pulse" {
+	0% {
+		-webkit-transform: scale(1);
+		-moz-transform: scale(1);
+		-o-transform: scale(1);
+		transform: scale(1);
+	}
+	0% {
+		-webkit-transform: scale(1.1);
+		-moz-transform: scale(1.1);
+		-o-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+	100% {
+		-webkit-transform: scale(1);
+		-moz-transform: scale(1);
+		-o-transform: scale(1);;
+		transform: scale(1);
+	}
+}
+
+@-moz-keyframes pulse {
+	0% {
+		-moz-transform: scale(1);
+		transform: scale(1);
+	}
+	50% {
+		-moz-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+	100% {
+		-moz-transform: scale(1);
+		transform: scale(1);
+	}
+
+}
+
+@-webkit-keyframes "pulse" {
+	0% { transform: scale(1); }
+	50% { transform: scale(1.1); }
+	100% { transform: scale(1); }
+}
