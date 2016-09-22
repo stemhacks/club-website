@@ -1,0 +1,223 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-8556d1a7-3smospla
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .title-holder  {
+		
+						text-align: center;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .Title  ,  .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .Body h1  { 
+						color: #8a7373;
+						letter-spacing: 0.15em;
+						font-family: open-sans;
+						font-size: 36px;
+						font-weight: bold;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla  .preview-content-holder  {
+		
+						margin-right: 0px;
+						padding-bottom: 0px;
+						text-align: left;
+						max-width: 300px;
+						padding-right: 0px;
+						margin-top: 20px;
+						margin-left: 0px;
+						padding-top: 0px;
+						margin-bottom: 20px;
+						border-color: rgb(60, 60, 60);
+						padding-left: 0px;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-divider  {
+		
+						margin-bottom: 5px;
+						margin-top: 5px;
+						width: 10%;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla #pagination-holder  {
+		
+						font-style: italic;
+						font-size: 17px;
+						color: rgb(76, 76, 76);
+						padding-bottom: 5px;
+						border-color: rgb(85, 85, 85);
+						border-width: 1px;
+						padding-right: 15px;
+						padding-left: 15px;
+						padding-top: 5px;
+						margin-bottom: 40px;
+						font-family: 'Times New Roman';	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .background-div  {
+			
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-title  ,  .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-body h1  { 
+						line-height: 1.2em;
+						font-size: 12px;
+						text-transform: uppercase;
+						color: rgb(0, 0, 0);
+						letter-spacing: -0.0em;
+						margin-top: 0px;
+						font-family: Montserrat;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla.master.item-box   {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-item-links span  ,  .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla #sr-basket-widget *  { 
+						border-width: 1px;
+						font-size: 12px;
+						color: rgb(99, 99, 99);
+						padding-bottom: 10px;
+						border-color: rgb(122, 122, 122);
+						letter-spacing: 0.1em;
+						padding-right: 15px;
+						margin-top: 15px;
+						padding-left: 15px;
+						padding-top: 10px;
+						margin-bottom: 30px;
+						font-family: Arial;
+						background-color: rgba(15, 43, 67, 0);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .blocks-preview-body  {
+		
+						margin-bottom: 10px;
+						line-height: 1.5em;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .stripe-background  {
+		
+						margin-top: -10px;
+						margin-left: -6%;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-element.icon-source  {
+		
+						padding-top: 0px;
+						margin-bottom: 0px;
+						margin-top: 0px;
+						width: 70px;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .blocks-preview-content-holder  {
+		
+						text-align: left;
+						margin-top: 35px;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .Subtitle  ,  .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .Body h2  { 
+						font-family: ralewaythin;
+						font-size: 22px;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .blocks-preview-subtitle  {
+		
+						font-size: 45px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.0em;
+						font-weight: bold;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-family: Montserrat;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla  .preview-content-wrapper  {
+		
+						text-align: left;
+						vertical-align: top;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-price  {
+		
+						font-family: Arial;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-item-links span:hover  ,  .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .subtitle-holder  {
+		
+						text-align: center;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .blocks-preview-divider  {
+		
+						border-style: solid;
+						border-color: rgb(46, 92, 124);
+						margin-top: 10px;
+						border-bottom-width: 8px;
+						width: 65%;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .blocks-preview-content-wrapper  {
+		
+						text-align: left;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .blocks-preview-title  {
+		
+						margin-bottom: 10px;
+						font-family: 'Playfair Display';
+						margin-top: 10px;
+						font-size: 27px;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-body  {
+		
+						font-family: Arial;
+						font-size: 12px;
+						color: rgb(60, 60, 60);
+						max-width: 500px;
+						margin-right: 0px;
+						margin-top: 20px;
+						margin-bottom: 10px;
+						line-height: 1.5em;	
+		}
+	
+	 .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-subtitle  ,  .style-02b9280a-ik1ygl76 .style-8556d1a7-3smospla .preview-body h2  { 
+						line-height: 1.4em;
+						font-size: 12px;
+						color: rgb(60, 60, 60);
+						letter-spacing: 0.35em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 0px;
+						font-family: Montserrat;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/

@@ -1,0 +1,128 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-02b9280a-aymingzh
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh.master.item-box   {
+		
+						position: relative;
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-item-links span:hover  ,  .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-element.Link.hover-tester  { 
+						color: rgb(218, 218, 218);
+						background-color: rgba(147, 147, 147, 0);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh.master.item-box   {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-item-links  {
+		
+						text-align: center;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh  .preview-content-holder  {
+		
+						border-color: rgb(214, 214, 214);
+						max-width: 2000px;
+						margin-right: 0px;
+						margin-top: 0px;
+						margin-left: 0px;
+						background-color: rgba(248, 248, 248, 0);
+						text-align: left;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-item-links span  ,  .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh #sr-basket-widget *  { 
+						font-size: 10px;
+						text-transform: uppercase;
+						color: rgb(0, 0, 0);
+						padding-bottom: 10px;
+						border-color: rgb(246, 246, 246);
+						letter-spacing: 0.05em;
+						max-width: 1150px;
+						padding-right: 10px;
+						padding-left: 10px;
+						padding-top: 10px;
+						font-family: Montserrat;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-title  ,  .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-body h1  { 
+						font-size: 11px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.0em;
+						margin-left: 0px;
+						font-family: Montserrat;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-item-links.allow-bg-color  {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-title-holder  {
+		
+						text-align: left;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-subtitle-holder  {
+		
+						text-align: left;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .stripe-background  {
+		
+						margin-left: -6%;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-element.icon-source  {
+		
+						margin-right: 10px;
+						margin-top: 10px;
+						margin-left: 10px;
+						width: 30px;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh  .preview-content-wrapper  {
+		
+						vertical-align: bottom;
+						text-align: left;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .middle_layout .helper-div  ,  .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-subtitle  ,  .style-02b9280a-ik1ygl76 .style-02b9280a-aymingzh .preview-body h2  { 
+						font-size: 10px;
+						text-transform: uppercase;
+						color: rgb(67, 67, 67);
+						letter-spacing: 0.1em;
+						margin-right: 0px;
+						margin-top: 5px;
+						margin-left: 0px;
+						font-family: Arial;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
